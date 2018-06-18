@@ -4,7 +4,7 @@
 import  PyPDF2
 import os
 
-os.chdir('/Users/i351036/Downloads/')
+os.chdir('/Users/Username/Downloads/')
 
 pdfFile = open('python_practice/meetingminutes1.pdf', 'rb')
 
