@@ -1,4 +1,3 @@
-#https://automatetheboringstuff.com/
 
 import openpyxl
 import os
